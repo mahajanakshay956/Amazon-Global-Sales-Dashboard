@@ -35,7 +35,7 @@ The Power BI dashboard includes the following visualizations and features:
 
 You can explore the dashboard here:
 
-👉 <a href="https://github.com/mahajanakshay956/Amazon-Global-Sales-Dashboard/blob/main/Dash-1.png">View Power BI Dashboard</a>
+👉 <a href="https://github.com/mahajanakshay956/Amazon-Global-Sales-Dashboard/blob/main/Sales%20Dashboard.png">View Power BI Dashboard</a>
 
 
 📦 Tools & Technologies Used
